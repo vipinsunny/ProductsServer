@@ -1,7 +1,7 @@
 const mongoose=require('mongoose')
 
 
-mongoose.connect('mongodb://localhost:27017/BankServerDB', {
+mongoose.connect('mongodb://localhost:27017/Products', {
     useNewUrlParser:true
 })
 
